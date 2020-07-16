@@ -2,6 +2,7 @@
   {
     "id": 1,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "red",
@@ -11,6 +12,7 @@
   {
     "id": 2,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "red",
@@ -20,6 +22,7 @@
   {
     "id": 3,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "red",
@@ -29,6 +32,7 @@
   {
     "id": 4,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "red",
@@ -38,6 +42,7 @@
   {
     "id": 5,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "red",
@@ -47,6 +52,7 @@
   {
     "id": 6,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "green",
@@ -56,6 +62,7 @@
   {
     "id": 7,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "green",
@@ -65,6 +72,7 @@
   {
     "id": 8,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "green",
@@ -74,6 +82,7 @@
   {
     "id": 9,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "green",
@@ -83,6 +92,7 @@
   {
     "id": 10,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "green",
@@ -92,6 +102,7 @@
   {
     "id": 11,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "navy",
@@ -101,6 +112,7 @@
   {
     "id": 12,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "navy",
@@ -110,6 +122,7 @@
   {
     "id": 13,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "navy",
@@ -119,6 +132,7 @@
   {
     "id": 14,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "navy",
@@ -128,6 +142,7 @@
   {
     "id": 15,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "navy",
@@ -137,6 +152,7 @@
   {
     "id": 16,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "white",
@@ -146,6 +162,7 @@
   {
     "id": 17,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "white",
@@ -155,6 +172,7 @@
   {
     "id": 18,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "white",
@@ -164,6 +182,7 @@
   {
     "id": 19,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "white",
@@ -173,6 +192,7 @@
   {
     "id": 20,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "white",
@@ -182,6 +202,7 @@
   {
     "id": 21,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "black",
@@ -191,6 +212,7 @@
   {
     "id": 22,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "black",
@@ -200,6 +222,7 @@
   {
     "id": 23,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "black",
@@ -209,6 +232,7 @@
   {
     "id": 24,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "black",
@@ -218,6 +242,7 @@
   {
     "id": 25,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "male",
       "color": "black",
@@ -227,6 +252,7 @@
   {
     "id": 26,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "red",
@@ -236,6 +262,7 @@
   {
     "id": 27,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "red",
@@ -245,6 +272,7 @@
   {
     "id": 28,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "red",
@@ -254,6 +282,7 @@
   {
     "id": 29,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "red",
@@ -263,6 +292,7 @@
   {
     "id": 30,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "red",
@@ -272,6 +302,7 @@
   {
     "id": 31,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "green",
@@ -281,6 +312,7 @@
   {
     "id": 32,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "green",
@@ -290,6 +322,7 @@
   {
     "id": 33,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "green",
@@ -299,6 +332,7 @@
   {
     "id": 34,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "green",
@@ -308,6 +342,7 @@
   {
     "id": 35,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "green",
@@ -317,6 +352,7 @@
   {
     "id": 36,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "navy",
@@ -326,6 +362,7 @@
   {
     "id": 37,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "navy",
@@ -335,6 +372,7 @@
   {
     "id": 38,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "navy",
@@ -344,6 +382,7 @@
   {
     "id": 39,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "navy",
@@ -353,6 +392,7 @@
   {
     "id": 40,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "navy",
@@ -362,6 +402,7 @@
   {
     "id": 41,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "white",
@@ -371,6 +412,7 @@
   {
     "id": 42,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "white",
@@ -380,6 +422,7 @@
   {
     "id": 43,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "white",
@@ -389,6 +432,7 @@
   {
     "id": 44,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "white",
@@ -398,6 +442,7 @@
   {
     "id": 45,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "white",
@@ -407,6 +452,7 @@
   {
     "id": 46,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "black",
@@ -416,6 +462,7 @@
   {
     "id": 47,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "black",
@@ -425,6 +472,7 @@
   {
     "id": 48,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "black",
@@ -434,6 +482,7 @@
   {
     "id": 49,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "black",
@@ -443,6 +492,7 @@
   {
     "id": 50,
     "product_type": "tshirt",
+    "price": 12.00,
     "options": {
       "gender": "female",
       "color": "black",
@@ -452,6 +502,7 @@
   {
     "id": 51,
     "product_type": "mug",
+    "price": 6.00,
     "options": {
       "type": "coffee-mug"
     }
@@ -459,6 +510,7 @@
   {
     "id": 52,
     "product_type": "mug",
+    "price": 6.00,
     "options": {
       "type": "travel-mug"
     }
@@ -466,6 +518,7 @@
   {
     "id": 53,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "x-small",
       "style": "matte"
@@ -474,6 +527,7 @@
   {
     "id": 54,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "small",
       "style": "matte"
@@ -482,6 +536,7 @@
   {
     "id": 55,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "medium",
       "style": "matte"
@@ -490,6 +545,7 @@
   {
     "id": 56,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "large",
       "style": "matte"
@@ -498,6 +554,7 @@
   {
     "id": 57,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "x-large",
       "style": "matte"
@@ -506,6 +563,7 @@
   {
     "id": 58,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "medium",
       "style": "glossy"
@@ -514,6 +572,7 @@
   {
     "id": 59,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "large",
       "style": "glossy"
@@ -522,6 +581,7 @@
   {
     "id": 60,
     "product_type": "sticker",
+    "price": 3.50,
     "options": {
       "size": "x-large",
       "style": "glossy"
