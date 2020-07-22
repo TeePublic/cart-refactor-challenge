@@ -75,3 +75,10 @@ nav {
 .add-to-cart.added {
   background-color: rgb(200, 200, 200);
 }
+
+.cart-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
