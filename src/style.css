@@ -54,7 +54,7 @@ ul {
 }
 
 .cart {
-  background-color: #EFEFEF;
+  background-color: #F8F8F8;
   border-radius: 4px;
   grid-row: 2;
   grid-column: 10 / span 5;
@@ -103,7 +103,7 @@ ul {
   }
 
 .item {
-  border: 2px solid rgb(200, 200, 200);
+  border: 2px solid #F8F8F8;
   border-radius: 4px;
   display: inherit;
   padding: .5rem;
