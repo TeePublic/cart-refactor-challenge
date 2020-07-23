@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -161,7 +161,7 @@
   },
   {
     "id": 17,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -171,7 +171,7 @@
   },
   {
     "id": 18,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -181,7 +181,7 @@
   },
   {
     "id": 19,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -191,7 +191,7 @@
   },
   {
     "id": 20,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -211,7 +211,7 @@
   },
   {
     "id": 22,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -231,7 +231,7 @@
   },
   {
     "id": 24,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "male",
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -261,7 +261,7 @@
   },
   {
     "id": 27,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -271,7 +271,7 @@
   },
   {
     "id": 28,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -281,7 +281,7 @@
   },
   {
     "id": 29,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -291,7 +291,7 @@
   },
   {
     "id": 30,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -301,7 +301,7 @@
   },
   {
     "id": 31,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -311,7 +311,7 @@
   },
   {
     "id": 32,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -321,7 +321,7 @@
   },
   {
     "id": 33,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -331,7 +331,7 @@
   },
   {
     "id": 34,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -341,7 +341,7 @@
   },
   {
     "id": 35,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -351,7 +351,7 @@
   },
   {
     "id": 36,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -361,7 +361,7 @@
   },
   {
     "id": 37,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -371,7 +371,7 @@
   },
   {
     "id": 38,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -381,7 +381,7 @@
   },
   {
     "id": 39,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -391,7 +391,7 @@
   },
   {
     "id": 40,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -401,7 +401,7 @@
   },
   {
     "id": 41,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -411,7 +411,7 @@
   },
   {
     "id": 42,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -421,7 +421,7 @@
   },
   {
     "id": 43,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -431,7 +431,7 @@
   },
   {
     "id": 44,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -441,7 +441,7 @@
   },
   {
     "id": 45,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -451,7 +451,7 @@
   },
   {
     "id": 46,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -461,7 +461,7 @@
   },
   {
     "id": 47,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -471,7 +471,7 @@
   },
   {
     "id": 48,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -481,7 +481,7 @@
   },
   {
     "id": 49,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",
@@ -491,7 +491,7 @@
   },
   {
     "id": 50,
-    "product_type": "tshirt",
+    "product_type": "t-shirt",
     "price": 12.00,
     "options": {
       "gender": "female",

@@ -53,6 +53,7 @@ function addProducts() {
       cartItemEl.style.flexDirection = 'row';
       cartItemEl.style.alignItems = 'center';
       cartItemEl.style.justifyContent = 'space-between';
+      cartItemEl.style.textTransform = 'capitalize';
       var cartItemHeaderEl = document.createElement('p');
       var cartItemPriceEl = document.createElement('p');
       cartItemHeaderEl.textContent = header.textContent;
@@ -69,7 +70,7 @@ function addProducts() {
         total += price
       })
       var totalEl = document.getElementsByClassName('cart-total')[0];
-      totalEl.textContent = total;
+      totalEl.textContent = '$' + total.toFixed(2);
     })
 
     productEl.appendChild(addToCartBtn)
